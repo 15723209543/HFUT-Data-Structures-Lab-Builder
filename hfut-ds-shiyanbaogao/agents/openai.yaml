@@ -1,0 +1,4 @@
+interface:
+  display_name: "HFUT 数据结构实验报告"
+  short_description: "生成实验代码、报告 PDF 与老师验收口述问答 PDF"
+  default_prompt: "Use $hfut-ds-shiyanbaogao to complete this data-structures experiment from the attached DOCX."
